@@ -1,0 +1,7 @@
+{
+  "name": "Leitora App",
+  "short_name": "LeitoraApp",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait"
+}
